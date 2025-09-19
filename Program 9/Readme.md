@@ -1,36 +1,39 @@
-//Sample output
-include is an identifier.
-< is an relational operator
-stdio is an identifier.
-h is an identifier.
-> is an relational operator
-int is a keyword.
-main is an identifier.
-( is a punctuator.
-) is a punctuator.
-{ is a punctuator.
-int is a keyword.
-a is an identifier.
-= is an assignment operator
-8 is an integer.
-; is a punctuator.
-int is a keyword.
-b is an identifier.
-= is an assignment operator
-10 is an integer.
-; is a punctuator.
-int is a keyword.
-c is an identifier.
-= is an assignment operator
-a is an identifier.
-+ is an arithmetic operator
-b is an identifier.
-; is a punctuator.
-printf is an identifier.
-( is a punctuator.
-"Sum is %d\n" is a string literal
-, is a punctuator.
-c is an identifier.
-) is a punctuator.
-; is a punctuator.
-} is a punctuator.
+### Sample Output Explanation
+
+The following is the analysis of each element from a sample code snippet:
+
+- **include**: Identifier  
+- **<**: Relational Operator  
+- **stdio**: Identifier  
+- **h**: Identifier  
+- **>**: Relational Operator  
+- **int**: Keyword  
+- **main**: Identifier  
+- **(**: Punctuator  
+- **)**: Punctuator  
+- **{**: Punctuator  
+- **int**: Keyword  
+- **a**: Identifier  
+- **=**: Assignment Operator  
+- **8**: Integer  
+- **;**: Punctuator  
+- **int**: Keyword  
+- **b**: Identifier  
+- **=**: Assignment Operator  
+- **10**: Integer  
+- **;**: Punctuator  
+- **int**: Keyword  
+- **c**: Identifier  
+- **=**: Assignment Operator  
+- **a**: Identifier  
+- **+**: Arithmetic Operator  
+- **b**: Identifier  
+- **;**: Punctuator  
+- **printf**: Identifier  
+- **(**: Punctuator  
+- **"Sum is %d\n"**: String Literal  
+- **,**: Punctuator  
+- **c**: Identifier  
+- **)**: Punctuator  
+- **;**: Punctuator  
+- **}**: Punctuator
